@@ -1,0 +1,20 @@
+{
+    "asset": "ae72133dacba6ec4eb33ecde48f50e56",
+    "fileName": "019b017e-b5f5-75da-a15c-30850624abef.png",
+    "prompt": "Centra el personaje en cada una de sus frames 32 * 32",
+    "negativePrompt": "",
+    "model": "5b5b2af1-6ea4-4266-b087-cc9f3bf4f450",
+    "modelName": "Flux.1 Dev",
+    "customSeed": -1,
+    "w3CTraceId": "07928b72d642cdd50788ec01c0209f3c",
+    "refinementMode": "Generation",
+    "pixelateTargetSize": 0,
+    "pixelateKeepImageSize": false,
+    "pixelatePixelBlockSize": 0,
+    "pixelateMode": 0,
+    "pixelateOutlineThickness": 0,
+    "doodles": {
+        "m_Items": []
+    },
+    "upscaleFactor": 0
+}
